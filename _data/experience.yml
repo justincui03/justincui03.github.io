@@ -1,0 +1,5 @@
+I study the problem of dataset distillation and its applications. The goal is to distill a large dataset into a small but information-rich synthetic dataset. We created the first large-scale benchmark(DC-BENCH) for the field and scaled up dataset distillation to ImageNet-1K.
+
+
+
+
